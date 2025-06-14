@@ -1,0 +1,12 @@
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.RabbitMQ\bin\Debug\net8.0\eCommerce.EventBus.RabbitMQ.deps.json
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.RabbitMQ\bin\Debug\net8.0\eCommerce.EventBus.RabbitMQ.dll
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.RabbitMQ\bin\Debug\net8.0\eCommerce.EventBus.RabbitMQ.pdb
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.RabbitMQ\obj\Debug\net8.0\eCommerce.EventBus.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.RabbitMQ\obj\Debug\net8.0\eCommerce.EventBus.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.RabbitMQ\obj\Debug\net8.0\eCommerce.EventBus.RabbitMQ.AssemblyInfo.cs
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.RabbitMQ\obj\Debug\net8.0\eCommerce.EventBus.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.RabbitMQ\obj\Debug\net8.0\eCommerce.EventBus.RabbitMQ.sourcelink.json
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.RabbitMQ\obj\Debug\net8.0\eCommerce.EventBus.RabbitMQ.dll
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.RabbitMQ\obj\Debug\net8.0\refint\eCommerce.EventBus.RabbitMQ.dll
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.RabbitMQ\obj\Debug\net8.0\eCommerce.EventBus.RabbitMQ.pdb
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.RabbitMQ\obj\Debug\net8.0\ref\eCommerce.EventBus.RabbitMQ.dll

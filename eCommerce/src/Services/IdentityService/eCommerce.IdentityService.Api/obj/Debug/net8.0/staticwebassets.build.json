@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VYUpBKmG6RpuYXBQrgS+QCbWR/BxgDLMlEB82IkHvg4=",
+  "Source": "eCommerce.IdentityService.Api",
+  "BasePath": "_content/eCommerce.IdentityService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

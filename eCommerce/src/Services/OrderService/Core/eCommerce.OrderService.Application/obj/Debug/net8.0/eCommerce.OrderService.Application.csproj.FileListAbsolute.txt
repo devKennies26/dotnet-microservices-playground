@@ -1,0 +1,12 @@
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\Services\OrderService\Core\eCommerce.OrderService.Application\bin\Debug\net8.0\eCommerce.OrderService.Application.deps.json
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\Services\OrderService\Core\eCommerce.OrderService.Application\bin\Debug\net8.0\eCommerce.OrderService.Application.dll
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\Services\OrderService\Core\eCommerce.OrderService.Application\bin\Debug\net8.0\eCommerce.OrderService.Application.pdb
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\Services\OrderService\Core\eCommerce.OrderService.Application\obj\Debug\net8.0\eCommerce.OrderService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\Services\OrderService\Core\eCommerce.OrderService.Application\obj\Debug\net8.0\eCommerce.OrderService.Application.AssemblyInfoInputs.cache
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\Services\OrderService\Core\eCommerce.OrderService.Application\obj\Debug\net8.0\eCommerce.OrderService.Application.AssemblyInfo.cs
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\Services\OrderService\Core\eCommerce.OrderService.Application\obj\Debug\net8.0\eCommerce.OrderService.Application.csproj.CoreCompileInputs.cache
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\Services\OrderService\Core\eCommerce.OrderService.Application\obj\Debug\net8.0\eCommerce.OrderService.Application.sourcelink.json
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\Services\OrderService\Core\eCommerce.OrderService.Application\obj\Debug\net8.0\eCommerce.OrderService.Application.dll
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\Services\OrderService\Core\eCommerce.OrderService.Application\obj\Debug\net8.0\refint\eCommerce.OrderService.Application.dll
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\Services\OrderService\Core\eCommerce.OrderService.Application\obj\Debug\net8.0\eCommerce.OrderService.Application.pdb
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\Services\OrderService\Core\eCommerce.OrderService.Application\obj\Debug\net8.0\ref\eCommerce.OrderService.Application.dll

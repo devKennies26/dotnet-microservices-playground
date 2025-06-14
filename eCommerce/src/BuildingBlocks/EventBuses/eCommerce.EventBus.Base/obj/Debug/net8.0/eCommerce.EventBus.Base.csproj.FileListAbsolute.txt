@@ -1,0 +1,12 @@
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Base\bin\Debug\net8.0\eCommerce.EventBus.Base.deps.json
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Base\bin\Debug\net8.0\eCommerce.EventBus.Base.dll
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Base\bin\Debug\net8.0\eCommerce.EventBus.Base.pdb
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Base\obj\Debug\net8.0\eCommerce.EventBus.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Base\obj\Debug\net8.0\eCommerce.EventBus.Base.AssemblyInfoInputs.cache
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Base\obj\Debug\net8.0\eCommerce.EventBus.Base.AssemblyInfo.cs
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Base\obj\Debug\net8.0\eCommerce.EventBus.Base.csproj.CoreCompileInputs.cache
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Base\obj\Debug\net8.0\eCommerce.EventBus.Base.sourcelink.json
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Base\obj\Debug\net8.0\eCommerce.EventBus.Base.dll
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Base\obj\Debug\net8.0\refint\eCommerce.EventBus.Base.dll
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Base\obj\Debug\net8.0\eCommerce.EventBus.Base.pdb
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Base\obj\Debug\net8.0\ref\eCommerce.EventBus.Base.dll

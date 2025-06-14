@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OuDIBCTfbcptOlgEMD3bV4Reb/EZPMzuYGx6g7/M8k4=",
+  "Source": "eCommerce.CatalogService.Api",
+  "BasePath": "_content/eCommerce.CatalogService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

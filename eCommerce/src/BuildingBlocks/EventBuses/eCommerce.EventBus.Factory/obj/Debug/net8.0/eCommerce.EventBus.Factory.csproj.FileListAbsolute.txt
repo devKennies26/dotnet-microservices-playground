@@ -1,0 +1,12 @@
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Factory\bin\Debug\net8.0\eCommerce.EventBus.Factory.deps.json
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Factory\bin\Debug\net8.0\eCommerce.EventBus.Factory.dll
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Factory\bin\Debug\net8.0\eCommerce.EventBus.Factory.pdb
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Factory\obj\Debug\net8.0\eCommerce.EventBus.Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Factory\obj\Debug\net8.0\eCommerce.EventBus.Factory.AssemblyInfoInputs.cache
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Factory\obj\Debug\net8.0\eCommerce.EventBus.Factory.AssemblyInfo.cs
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Factory\obj\Debug\net8.0\eCommerce.EventBus.Factory.csproj.CoreCompileInputs.cache
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Factory\obj\Debug\net8.0\eCommerce.EventBus.Factory.sourcelink.json
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Factory\obj\Debug\net8.0\eCommerce.EventBus.Factory.dll
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Factory\obj\Debug\net8.0\refint\eCommerce.EventBus.Factory.dll
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Factory\obj\Debug\net8.0\eCommerce.EventBus.Factory.pdb
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Factory\obj\Debug\net8.0\ref\eCommerce.EventBus.Factory.dll

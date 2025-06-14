@@ -1,0 +1,12 @@
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.AzureServiceBus\bin\Debug\net8.0\eCommerce.EventBus.AzureServiceBus.deps.json
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.AzureServiceBus\bin\Debug\net8.0\eCommerce.EventBus.AzureServiceBus.dll
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.AzureServiceBus\bin\Debug\net8.0\eCommerce.EventBus.AzureServiceBus.pdb
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.AzureServiceBus\obj\Debug\net8.0\eCommerce.EventBus.AzureServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.AzureServiceBus\obj\Debug\net8.0\eCommerce.EventBus.AzureServiceBus.AssemblyInfoInputs.cache
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.AzureServiceBus\obj\Debug\net8.0\eCommerce.EventBus.AzureServiceBus.AssemblyInfo.cs
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.AzureServiceBus\obj\Debug\net8.0\eCommerce.EventBus.AzureServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.AzureServiceBus\obj\Debug\net8.0\eCommerce.EventBus.AzureServiceBus.sourcelink.json
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.AzureServiceBus\obj\Debug\net8.0\eCommerce.EventBus.AzureServiceBus.dll
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.AzureServiceBus\obj\Debug\net8.0\refint\eCommerce.EventBus.AzureServiceBus.dll
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.AzureServiceBus\obj\Debug\net8.0\eCommerce.EventBus.AzureServiceBus.pdb
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.AzureServiceBus\obj\Debug\net8.0\ref\eCommerce.EventBus.AzureServiceBus.dll
