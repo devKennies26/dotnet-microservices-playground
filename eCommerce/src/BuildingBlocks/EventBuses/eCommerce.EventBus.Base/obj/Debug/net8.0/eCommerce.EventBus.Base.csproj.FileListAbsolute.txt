@@ -10,3 +10,4 @@ C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\Build
 C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Base\obj\Debug\net8.0\refint\eCommerce.EventBus.Base.dll
 C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Base\obj\Debug\net8.0\eCommerce.EventBus.Base.pdb
 C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Base\obj\Debug\net8.0\ref\eCommerce.EventBus.Base.dll
+C:\Users\kenna\OneDrive\Desktop\introduction to microservice\eCommerce\src\BuildingBlocks\EventBuses\eCommerce.EventBus.Base\obj\Debug\net8.0\eCommerce.EventBus.Base.csproj.AssemblyReference.cache
